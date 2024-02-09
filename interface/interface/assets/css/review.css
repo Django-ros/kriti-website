@@ -1,0 +1,122 @@
+img {
+  max-width: 100%;
+}
+
+.main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--f-color-1);
+  margin: 1em;
+}
+
+.container_2 {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  margin: 40px 0px;
+}
+
+.title h2 {
+  font-family: var(--ff-1);
+  font-size: 50px;
+  text-transform: capitalize;
+  margin-bottom: 5px;
+}
+
+.title .underline {
+  width: 100px;
+  height: 4px;
+  background-color: var(--f-color-2);
+  margin: 0 auto;
+}
+
+.review {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  background-color: #2d3751;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: "Open Sans", sans-serif;
+  border-radius: 12px;
+}
+
+.border_box{
+  border-radius: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#person-img {
+  margin-bottom: 0.2em;
+  position: relative;
+  right: 45%;
+  overflow: hidden;
+  background-size: cover;
+  object-fit: cover;
+  opacity: 0.5;
+  margin-left: 1em;
+}
+
+#author {
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: capitalize;
+  margin-top: 10px;
+  color:#FFFB7D
+}
+
+#job {
+  text-transform: uppercase;
+  line-height: 150%;
+  margin-bottom: 10px;
+  color: #85FFBD;
+}
+
+#info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  padding: 1.3em;
+  font-family: var(--ff-1);
+  height: 8em;
+  font-size: 18px;
+  color: #fff;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.btn {
+  text-decoration: none;
+  border-style: none;
+  font-size: 30px;
+  margin: 0 10px;
+  color: #85FFBD;
+  cursor: pointer;
+  background-color:transparent;
+}
+.credit a{
+  text-decoration: none;
+  color: #000;
+  font-weight: 800;
+  }
+  
+  .credit {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    color:#000;
+    text-align: center;
+  }
