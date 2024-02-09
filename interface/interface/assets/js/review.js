@@ -6,7 +6,7 @@ const reviews = [
     img:
       "https://cdn.pixabay.com/photo/2018/11/13/21/43/instagram-3814049__340.png",
     text:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis atque neque aut laudantium illo incidunt error aliquam eius minima amet. Ad beatae, culpa obcaecati quam cupiditate similique consequatur! Inventore, et."
+      "Mental Health Review Journal (MHRJ) is a vital source of current thinking on the research, policy and practice of mental health service delivery, bringing together research and practice perspectives."
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const reviews = [
     img:
       "https://cdn.pixabay.com/photo/2018/11/13/21/43/instagram-3814049__340.png",
     text:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis atque neque aut laudantium illo incidunt error aliquam eius minima amet. Ad beatae, culpa obcaecati quam cupiditate similique consequatur! Inventore, et."
+      "On the milder end of the psychosocial spectrum, many of the experiences of patients, family members, and the public can be appropriately normalized by providing information about usual reactions to this kind of stress and by pointing out that people can and do manage even in the midst of dire circumstances."
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const reviews = [
     img:
       "https://cdn.pixabay.com/photo/2018/11/13/21/43/instagram-3814049__340.png",
     text:
-      "SLorem ipsum dolor sit amet consectetur adipisicing elit. Debitis atque neque aut laudantium illo incidunt error aliquam eius minima amet. Ad beatae, culpa obcaecati quam cupiditate similique consequatur! Inventore, et."
+      "As for health care providers themselves, the novel nature of SARS-CoV-2, inadequate testing, limited treatment options, insufficient PPE and other medical supplies, extended workloads, and other emerging concerns are sources of stress and have the potential to overwhelm systems. "
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const reviews = [
     img:
       "https://cdn.pixabay.com/photo/2018/11/13/21/43/instagram-3814049__340.png",
     text:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis atque neque aut laudantium illo incidunt error aliquam eius minima amet. Ad beatae, culpa obcaecati quam cupiditate similique consequatur! Inventore, et."
+      "Opportunities to monitor psychosocial needs and deliver support during direct patient encounters in clinical practice are greatly curtailed in this crisis by large-scale home confinement. Psychosocial services, which are increasingly delivered in primary care settings, are being offered by means of telemedicine."
   }
 ];
 

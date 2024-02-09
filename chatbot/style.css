@@ -110,6 +110,8 @@ img {
     background-color: aquamarine;
     border-radius: 2vw;
     opacity: 0.7;
+    text-decoration: none;
+    color: black;
 }
 
 .conty {
